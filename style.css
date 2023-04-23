@@ -5,11 +5,12 @@
 }
 html {
 	font-size: 10px;
-	font-family: 'Calibri', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	scroll-behavior: smooth;
 }
 a {
 	text-decoration: none;
+
 }
 .container {
 	min-height: 100vh;
